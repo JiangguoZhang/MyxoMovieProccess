@@ -8,7 +8,7 @@ or just download this file from the webpage.
 * Install Anaconda prompt from this [link](https://www.anaconda.com/download).
 * In your Anaconda prompt, change the directory to this folder. Use a conda environment with juypter notebook and pandas or install an enviroment with the following command:
 ```shell
-
+conda env create -f environment.yaml
 ```
 * Activate the environment:
 ```shell
